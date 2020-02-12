@@ -18,7 +18,6 @@ p {
   cursor: pointer;
   margin: 0; }
   p:hover {
-    color: red;
-    font-size: 120%; }
+    font-weight: bold; }
 
 /*# sourceMappingURL=main.css.map */
